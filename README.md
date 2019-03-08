@@ -13,7 +13,7 @@
 9. Dynaminc Data Exchange (DDE) Messaging: A system that stores the modes of a Process and sends the data to an Excel Spreadsheet dynamically.  
 10. Pump Protection: An Alarm System with Hand ON Auto (HOA) control enabled on a pump with a flow- and pressure switch. 
 
-NEEDED FOR THESE PROJECTS: 
+SOFTWARE NEEDED FOR THESE PROJECTS: 
 
 - Rockwell RSLogix Micro
 - Rockwell RSLogix Emulate 500
