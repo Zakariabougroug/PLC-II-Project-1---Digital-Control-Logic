@@ -1,4 +1,4 @@
-# PLC-II-Project-1---Digital-Control-Logic
+# PLC-Programming Projects from Udemy course 'Practical PLC Programming (PLC II)' with Instructor Paul Lynn
 
 10 Projects in PLC programming: 
 
